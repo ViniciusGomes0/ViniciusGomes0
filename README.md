@@ -1,5 +1,5 @@
 <!--Imagem de Fundo-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=navbar"/>
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=navbar](https://st.depositphotos.com/52593200/57646/i/450/depositphotos_576469688-stock-photo-abstract-technology-line-moving-forward.jpg)"/>
 
 Hi 👋 My name is Vinicius Gomes
 ===================================
