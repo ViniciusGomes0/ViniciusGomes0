@@ -4,10 +4,10 @@
 Hi 👋 My name is Vinicius Gomes
 ===================================
 
-* 🌍  I'm based in Araçatuba SP
-* ✉️  You can contact me at viniciusgomes02007@gmail.com
-* 🧠  I'm learning Python, HTML, CSS e JavaScrpit
-* 🤝  I'm open to collaborating on Front-End Development.
+* 🌍 Araçatuba SP
+* ✉️ You can contact me at viniciusgomes02007@gmail.com
+* 🧠 I'm learning Python, HTML, CSS e JavaScrpit
+* 🤝 I'm open to collaborating on Front-End Development.
 
 ### Socials
 
