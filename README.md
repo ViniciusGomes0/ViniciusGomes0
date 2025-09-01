@@ -6,7 +6,7 @@ Hi 👋 My name is Vinicius Gomes
 
 * 🌍 Araçatuba SP
 * ✉️ You can contact me at viniciusgomes02007@gmail.com
-* 🧠 I'm learning Python, HTML, CSS e Java
+* 🧠 I'm learning Python, HTML, CSS, Java e C
 * 🤝 I'm open to collaborating on Front-End e Back-End
 
 ### Socials
