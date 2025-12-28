@@ -11,13 +11,12 @@
 
 ### 🚀 Sobre Mim
 * 📍 Localizado em **Araçatuba - SP**.
-* 🧠 Atualmente aprofundando conhecimentos em **Python, HTML, CSS, Java e PHP**.
+* 🧠 Atualmente aprofundando conhecimentos em **Python, HTML, CSS, Java, PHP, MySQL**.
 * 🤝 Disponível para colaborações em projetos **Front-End e Back-End**.
-* ✉️ Entre em contato: [viniciusgomes02007@gmail.com](mailto:viniciusgomes02007@gmail.com)
+* ✉️ Entre em contato: viniciusgomes02007@gmail.com
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
