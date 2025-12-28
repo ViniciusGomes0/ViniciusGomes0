@@ -3,51 +3,11 @@
 </p>
 
 <div align="center">
-  <h1> Olá, Seja bem-vindo(a) ao meu perfil! 👋 </h1>
-  <p> Desenvolvedor em constante aprendizado, focado em criar soluções eficientes e modernas.</p>
-</div>
-
----
-
-### 🚀 Sobre Mim
-* 📍 Localizado em **Araçatuba - SP**.
-* 🧠 Atualmente aprofundando conhecimentos em **Python, HTML, CSS, Java, PHP, MySQL**.
-* 🤝 Disponível para colaborações em projetos **Front-End e Back-End**.
-* ✉️ Entre em contato: [viniciusgomes02007@gmail.com](mailto:viniciusgomes02007@gmail.com)
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusGomes0&theme=tokyonight" />
-</div>
-
----
-
-### 🌐 Conecte-se comigo
-<div align="left">
+  <h1> Desenvolvedor Full-Stack em Formação 🚀 </h1>
+  <p> Apaixonado por tecnologia e focado em construir soluções escaláveis e eficientes. </p>
+  
   <a href="https://www.linkedin.com/in/vinicius-gomes-6855b6270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/viniciusssg_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:viniciusgomes02007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -56,9 +16,39 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ViniciusGomes0/count.svg" alt="Visitors Count" />
+### 👨‍💻 Sobre Mim
+Atualmente residindo em **Araçatuba - SP**, dedico meu tempo ao estudo intensivo de tecnologias que compõem o ecossistema moderno de desenvolvimento. Meu objetivo é transitar entre o Front-End e o Back-End com agilidade, entregando interfaces intuitivas e APIs robustas.
+
+* 🎓 **Foco de Estudo:** Arquitetura de sistemas e algoritmos.
+* 🤝 **Colaboração:** Aberto a projetos Open Source e parcerias em desenvolvimento Web.
+
+---
+
+### 🛠️ Stack Tecnológica
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, Java, PHP, JavaScript |
+| **Front-end** | HTML5, CSS3 |
+| **Banco de Dados** | MySQL |
+| **Ferramentas** | Git, GitHub, VS Code |
+
+---
+
+### 📌 Projetos em Destaque
+*Aqui estão alguns dos meus principais trabalhos (substitua os links abaixo pelos seus repositórios reais):*
+
+1.  **[Nome do Projeto 1](https://github.com/ViniciusGomes0)** - Descrição breve do que o projeto faz e tecnologias usadas.
+2.  **[Nome do Projeto 2](https://github.com/ViniciusGomes0)** - Descrição breve focada no problema que você resolveu.
+
+---
+
+### 📈 Contribuições & Atividade
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
+
+---
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
