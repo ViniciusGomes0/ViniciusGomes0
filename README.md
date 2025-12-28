@@ -26,12 +26,12 @@ Atualmente residindo em **Araçatuba - SP**, dedico meu tempo ao estudo intensiv
 
 ### 🛠️ Stack Tecnológica
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, Java, PHP, JavaScript |
+Tecnologias:
+
+| **Linguagens** | Python, Java, PHP |
 | **Front-end** | HTML5, CSS3 |
 | **Banco de Dados** | MySQL |
-| **Ferramentas** | Git, GitHub, VS Code |
+| **Ferramentas** | Git, GitHub|
 
 ---
 
