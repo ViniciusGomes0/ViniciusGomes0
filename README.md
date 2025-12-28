@@ -17,7 +17,7 @@
 ---
 
 ###  Sobre Mim
-Atualmente residindo em **Araçatuba - SP**, dedico meu tempo ao estudo intensivo de tecnologias que compõem o ecossistema moderno de desenvolvimento. Meu objetivo é transitar entre o Front-End e o Back-End com agilidade, entregando interfaces intuitivas e APIs robustas.
+Atualmente estudando para programação BackEnd, focando em tecnologias ágeis e automatização e disponível para projetos e trabalhos.
 
 *  **Foco de Estudo:** Arquitetura de sistemas e algoritmos.
 *  **Colaboração:** Aberto a projetos Open Source e parcerias em desenvolvimento Web.
