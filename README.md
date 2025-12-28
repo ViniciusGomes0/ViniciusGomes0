@@ -37,6 +37,11 @@
 </div>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusGomes0&theme=tokyonight" />
 </div>
 
