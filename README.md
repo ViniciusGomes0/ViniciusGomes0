@@ -13,7 +13,7 @@
 * 📍 Localizado em **Araçatuba - SP**.
 * 🧠 Atualmente aprofundando conhecimentos em **Python, HTML, CSS, Java, PHP, MySQL**.
 * 🤝 Disponível para colaborações em projetos **Front-End e Back-End**.
-* ✉️ Entre em contato: viniciusgomes02007@gmail.com
+* ✉️ Entre em contato: [viniciusgomes02007@gmail.com](mailto:viniciusgomes02007@gmail.com)
 
 ---
 
@@ -30,12 +30,6 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&langs_count=7&theme=tokyonight" />
