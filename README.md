@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1> Desenvolvedor Full-Stack em Formação 🚀 </h1>
+  <h1> Desenvolvedor BackEnd em Formação! </h1>
   <p> Apaixonado por tecnologia e focado em construir soluções escaláveis e eficientes. </p>
   
   <a href="https://www.linkedin.com/in/vinicius-gomes-6855b6270/" target="_blank">
@@ -16,11 +16,11 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre mim:
 Atualmente residindo em **Araçatuba - SP**, dedico meu tempo ao estudo intensivo de tecnologias que compõem o ecossistema moderno de desenvolvimento. Meu objetivo é transitar entre o Front-End e o Back-End com agilidade, entregando interfaces intuitivas e APIs robustas.
 
-* 🎓 **Foco de Estudo:** Arquitetura de sistemas e algoritmos.
-* 🤝 **Colaboração:** Aberto a projetos Open Source e parcerias em desenvolvimento Web.
+* **Foco de Estudo:** Arquitetura de sistemas e algoritmos.
+* **Colaboração:** Aberto a projetos Open Source e parcerias em desenvolvimento Web.
 
 ---
 
@@ -35,15 +35,13 @@ Atualmente residindo em **Araçatuba - SP**, dedico meu tempo ao estudo intensiv
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque:
 *Aqui estão alguns dos meus principais trabalhos (substitua os links abaixo pelos seus repositórios reais):*
 
-1.  **[Nome do Projeto 1](https://github.com/ViniciusGomes0)** - Descrição breve do que o projeto faz e tecnologias usadas.
-2.  **[Nome do Projeto 2](https://github.com/ViniciusGomes0)** - Descrição breve focada no problema que você resolveu.
 
 ---
 
-### 📈 Contribuições & Atividade
+### Contribuições & Atividade
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
