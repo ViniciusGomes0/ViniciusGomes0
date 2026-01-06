@@ -24,7 +24,7 @@ Atualmente estudando para programação BackEnd, focando em tecnologias ágeis e
 
 ---
 
-### 🛠️ Stack Tecnológica
+###  Stack Tecnológica
 
 | Camada | Tecnologias |
 | :--- | :--- |
