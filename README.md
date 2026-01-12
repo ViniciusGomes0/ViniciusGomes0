@@ -29,7 +29,7 @@ Atualmente estudando para programação BackEnd, focando em tecnologias ágeis e
 | Camada | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | Python, Java, PHP, JavaScript |
-| **Front-end** | HTML5, CSS3 |
+| **Front-end** | HTML5, CSS3 | JavaScript
 | **Banco de Dados** | MySQL |
 | **Ferramentas** | Git, GitHub, VS Code |
 
