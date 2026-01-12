@@ -35,13 +35,6 @@ Atualmente estudando para programação BackEnd, focando em tecnologias ágeis e
 
 ---
 
-###  Projetos em Destaque
-*Aqui estão alguns dos meus principais trabalhos (substitua os links abaixo pelos seus repositórios reais):*
-
-
-
----
-
 ###  Contribuições & Atividade
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
