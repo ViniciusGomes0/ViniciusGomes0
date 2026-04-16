@@ -83,9 +83,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&theme=dracula&area=true&hide_border=true" width="95%" alt="Activity Graph" />
   </p>
 </div>
-
-<br><br>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=footer&text=Vamos%20construir%20algo%20legal?&fontSize=20&fontAlignY=50"/>
-</p>
