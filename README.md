@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=220&section=header&text=Vinícius%20Gomes&fontSize=70&animation=fadeIn&fontAlignY=40&fontAlign=50">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Vinícius%20Gomes&fontSize=70&animation=fadeIn&fontAlignY=40&fontAlign=50&fontColor=ffffff">
 </p>
 
 <div align="center">
