@@ -3,10 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 style="border-bottom: none;">🚀 Future Back-End Architect </h1>
-  <p style="font-size: 1.2em; color: #555; max-width: 600px; margin: 0 auto 20px auto;">
-    Apaixonado por destrinchar problemas complexos e construir as fundações sólidas que sustentam aplicações escaláveis e eficientes.
-  </p>
+  <h1 style="border-bottom: none;">Back-end programming student</h1>
 
   <a href="https://www.linkedin.com/in/vinicius-gomes-6855b6270/" target="_blank" style="text-decoration: none; margin: 0 5px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,16 +18,16 @@
 <br>
 
 <div align="center">
-  <h2> 🖋️ Minha Jornada </h2>
+  <h2> Jornada: </h2>
   <p style="font-size: 1.1em; text-align: left; max-width: 800px; line-height: 1.6;">
-    Atualmente mergulhado nos estudos de **Engenharia de Software**, meu foco está no desenvolvimento do ecossistema Back-End. Não busco apenas escrever código que funcione; meu objetivo é entender a fundo a **arquitetura de sistemas**, otimização de **bancos de dados** e a criação de APIs robustas e seguras. Acredito que a verdadeira magia da tecnologia acontece onde ninguém vê.
+    Atualmente trabalhando na Voti Software, com construção em java para desenvolvimentos empresariais.
   </p>
 </div>
 
 <br><br>
 
 <div align="center">
-  <h2> 💻 Meu Arsenal Tecnológico </h2>
+  <h2> HardSkills: </h2>
   <p style="color: #666; margin-bottom: 20px;"> Tecnologias que utilizo para construir e inovar. </p>
 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin: 5px;"/>
@@ -52,20 +49,20 @@
 <br>
 
 <div align="center">
-  <h2> ✨ Em Destaque na Minha Formação </h2>
+  <h2> Em Destaque na Minha Formação </h2>
   
   <table style="border-collapse: collapse; border: none; width: 100%; max-width: 900px;">
     <tr style="border: none;">
       <td style="border: none; padding: 20px; width: 33%; text-align: center;">
-        <h3>🧩 Resolução de Problemas</h3>
+        <h3> Resolução de Problemas</h3>
         <p>Foco em decompor desafios complexos em soluções lógicas e eficientes.</p>
       </td>
       <td style="border: none; padding: 20px; width: 33%; text-align: center; border-left: 1px solid #eee; border-right: 1px solid #eee;">
-        <h3>🏗️ Pensamento Estruturado</h3>
+        <h3> Pensamento Estruturado</h3>
         <p>Interesse profundo em padrões de projeto e Clean Architecture.</p>
       </td>
       <td style="border: none; padding: 20px; width: 33%; text-align: center;">
-        <h3>🚀 Aprendizado Contínuo</h3>
+        <h3> Aprendizado Contínuo</h3>
         <p>Dedicado a dominar novas ferramentas e metodologias ágeis.</p>
       </td>
     </tr>
@@ -75,7 +72,7 @@
 <br><br>
 
 <div align="center">
-  <h2> 📊 Métricas de Desenvolvimento </h2>
+  <h2>  Métricas de Desenvolvimento </h2>
   <p style="color: #666; margin-bottom: 20px;"> Um panorama do meu compromisso com o código. </p>
 
   <p align="center">
