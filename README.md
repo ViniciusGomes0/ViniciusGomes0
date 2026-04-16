@@ -20,8 +20,7 @@
 <div align="center">
   <h2>Minha jornada</h2>
   <p style="font-size: 1.1em; text-align: left; max-width: 800px; line-height: 1.6;">
-    Hoje trabalho na Voti Software, desenvolvendo soluções empresariais com Java. 
-    No dia a dia, estou sempre buscando evoluir — tanto na parte técnica quanto na forma de pensar e resolver problemas.
+    Atualmente estou atuando na área de programador em Java.
   </p>
 </div>
 
