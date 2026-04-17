@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1 style="border-bottom: none;"> Software Engineering Student | Back-end Developer</h1>
+  <h1 style="border-bottom: none;">Back-end Developer</h1>
 
   <div style="display: inline-block;">
     <a href="https://www.linkedin.com/in/vinicius-gomes-6855b6270/" target="_blank">
