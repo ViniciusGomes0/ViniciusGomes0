@@ -20,9 +20,9 @@
 
 ---
 
-<img align="right" src="https://media1.tenor.com/m/cGR8wVx9ZfIAAAAd/coder.gif" width="38%" style="border-radius: 12px;" />
+<img align="right" src="https://i.makeagif.com/media/9-17-2025/9jKHou.gif" width="38%" style="border-radius: 12px;" />
 
-### `$ whoami`
+### `$ Quem eu sou?`
 
 ```yaml
 nome:     Vinícius Gomes
