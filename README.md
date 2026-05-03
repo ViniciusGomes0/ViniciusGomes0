@@ -34,9 +34,7 @@ status:   Sempre aprendendo 🚀
 
 <br/>
 
-Desenvolvedor **Java** sem procurando construir sistemas que realmente funcionam — do banco de dados à API, com arquitetura pensada e código que dá orgulho de ler.
-
-Acredito que bom software nasce de disciplina, curiosidade e da vontade de fazer sempre um pouco melhor do que ontem.
+Desenvolvedor Java que gosta de construir sistemas bem feitos, com código limpo e evolução constante.
 
 <br clear="right"/>
 
