@@ -12,8 +12,6 @@
   <a href="mailto:viniciusgomes02007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ViniciusGomes0&style=for-the-badge&color=0d1117&label=VISITAS" />
 </p>
 
 <br/>
