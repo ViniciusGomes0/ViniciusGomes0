@@ -122,6 +122,3 @@ Acredito que bom software nasce de disciplina, curiosidade e da vontade de fazer
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=120&section=footer&fontColor=58a6ff" />
 </p>
 
-<p align="center">
-  <sub>Feito com foco, café e muito <code>git commit</code> ☕</sub>
-</p>
