@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" src="https://media1.tenor.com/m/bTXticX8ilcAAAAd/computor-computer.gif" width="38%" style="border-radius: 12px;" />
+<img align="right" src="https://i.makeagif.com/media/9-17-2025/9jKHou.gif" width="38%" style="border-radius: 12px;" />
 
 ### `$ Quem eu sou?`
 
