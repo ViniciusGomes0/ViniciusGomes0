@@ -2,6 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Vinícius%20Gomes&fontSize=70&animation=fadeIn&fontAlignY=40&fontAlign=50&fontColor=ffffff">
 </p>
 
+<!-- GIF ANIMADO -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/cGR8wVx9ZfIAAAAd/coder.gif" width="100%" />
+</p>
+
 <div align="center">
   <h1 style="border-bottom: none;">Back-end Developer</h1>
 
@@ -19,7 +24,7 @@
 
 ---
 
-##  Sobre Mim
+## Sobre Mim
 
 <p align="left">
   Atualmente atuo como <b>desenvolvedor Java</b>, com foco em construir sistemas robustos e escaláveis. Sou apaixonado por resolver problemas complexos e estou constantemente aprimorando meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
@@ -27,20 +32,22 @@
 
 <br>
 
-##  Tecnologias e Ferramentas
+---
+
+## Tecnologias e Ferramentas
 
 <div align="left">
   
-  ###  Linguagens
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+### Linguagens
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-  ###  Banco de Dados & Infra
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+### Banco de Dados & Infra
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
@@ -48,7 +55,7 @@
 
 ---
 
-##  Soft Skills & Diferenciais
+## Soft Skills & Diferenciais
 
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
@@ -68,15 +75,15 @@
 
 ---
 
-##  Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&theme=algolia&hide_border=true" height="180px" />
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&theme=dracula&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>
