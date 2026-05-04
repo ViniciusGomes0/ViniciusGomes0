@@ -27,7 +27,7 @@ nome:     Vinícius Gomes
 função:   Back-end Developer
 foco:     Sistemas robustos e escaláveis
 missão:   Transformar complexidade em código limpo
-status:   Sempre aprendendo 🚀
+status:   Sempre aprendendo 
 ```
 
 <br/>
@@ -79,7 +79,7 @@ Desenvolvedor Java que gosta de construir sistemas bem feitos, com código limpo
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🧩-Resolução de Problemas-0d1117?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/-Resolução de Problemas-0d1117?style=flat-square" /><br/><br/>
       <b>Resolução de Problemas</b><br/><br/>
       <sub>Decomponho desafios complexos em soluções simples, diretas e eficientes.</sub>
     </td>
