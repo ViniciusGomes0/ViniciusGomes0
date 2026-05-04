@@ -79,17 +79,17 @@ Desenvolvedor Java que gosta de construir sistemas bem feitos, com código limpo
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-Resolução de Problemas-0d1117?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Resolução de Problemas-0d1117?style=flat-square" /><br/><br/>
       <b>Resolução de Problemas</b><br/><br/>
       <sub>Decomponho desafios complexos em soluções simples, diretas e eficientes.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏛️-Arquitetura Limpa-0d1117?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Arquitetura Limpa-0d1117?style=flat-square" /><br/><br/>
       <b>Arquitetura & Boas Práticas</b><br/><br/>
       <sub>Comprometido com Clean Architecture, princípios SOLID e design patterns.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/📈-Crescimento Contínuo-0d1117?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Crescimento Contínuo-0d1117?style=flat-square" /><br/><br/>
       <b>Aprendizado Contínuo</b><br/><br/>
       <sub>Evolução diária através de estudos, projetos e muita experimentação prática.</sub>
     </td>
