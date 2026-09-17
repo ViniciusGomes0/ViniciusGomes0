@@ -1,10 +1,31 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  README de perfil — Vinícius Gomes                           ║
-  ║  MONOCHROME EDITION                                          ║
-  ║  bg #0D1117 · card #161B22 · borda #21262D                   ║
-  ║  texto #8B949E · light #C9D1D9 · accent #E6EDF3              ║
-  ╚══════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  README de perfil — Vinícius Gomes · MONOCHROME EDITION              ║
+  ║  bg #0D1117 · card #161B22 · borda #21262D                           ║
+  ║  texto #8B949E · light #C9D1D9 · accent #E6EDF3                      ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║  ⚠ IMPORTANTE — POR QUE IMAGENS SOMEM                                ║
+  ║                                                                      ║
+  ║  Os cards de stats usam github-readme-stats.vercel.app, que é uma    ║
+  ║  instância pública compartilhada por milhões de perfis. Ela bate o   ║
+  ║  rate limit da API do GitHub e devolve erro — por isso as imagens    ║
+  ║  quebram de forma intermitente.                                      ║
+  ║                                                                      ║
+  ║  SOLUÇÃO DEFINITIVA (10 min, grátis) — hospede sua própria cópia:    ║
+  ║   1. Fork em github.com/anuraghazra/github-readme-stats              ║
+  ║   2. vercel.com → Add New Project → importe o seu fork               ║
+  ║   3. Environment Variables → PAT_1 = <token clássico do GitHub>      ║
+  ║      (github.com/settings/tokens · não precisa de nenhum escopo)     ║
+  ║   4. Deploy → você recebe algo como seu-stats.vercel.app             ║
+  ║   5. Aqui no arquivo, substitua TODAS as ocorrências de              ║
+  ║      github-readme-stats.vercel.app  pelo SEU domínio                ║
+  ║                                                                      ║
+  ║  Depois disso nunca mais quebra. Enquanto não fizer, os cards vão    ║
+  ║  aparecer e sumir conforme o rate limit.                             ║
+  ║                                                                      ║
+  ║  Obs: o GitHub cacheia imagem quebrada por alguns minutos. Depois    ║
+  ║  de corrigir, acrescente &v=2 no fim da URL pra forçar recarga.      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
@@ -49,7 +70,11 @@ status:   em evolução constante
 
 Construo o lado que ninguém vê — e que não pode falhar.
 
-Desenvolvedor Back-End Java.
+Meu trabalho é desenhar **APIs previsíveis**, modelar domínios que
+resistem a mudança e escrever camadas com responsabilidade tão clara
+que o próximo dev não precisa perguntar nada.
+
+Código limpo não é estética. É manutenção barata.
 
 <br clear="right"/>
 
@@ -162,53 +187,65 @@ DELETE  /api/v1/orders/{id}         204 No Content  403 Forbidden
 
 <br/>
 
-### `~/ projects --pinned`
-
-<!-- TROQUE "repo-nome-1" / "repo-nome-2" pelos seus repositórios reais -->
-
-<div align="center">
-
-<a href="https://github.com/ViniciusGomes0/repo-nome-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusGomes0&repo=repo-nome-1&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" />
-</a>
-<a href="https://github.com/ViniciusGomes0/repo-nome-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusGomes0&repo=repo-nome-2&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" />
-</a>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:484f58,100:0d1117&height=2" />
-</div>
-
-<br/>
-
 ### `~/ github --stats`
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=E6EDF3" />
+<!-- ── Linha de métricas via shields.io — não depende da API compartilhada,
+     essa nunca quebra. Serve de base sólida caso o resto falhe. ── -->
+
+<img src="https://img.shields.io/github/followers/ViniciusGomes0?style=for-the-badge&logo=github&logoColor=C9D1D9&label=FOLLOWERS&labelColor=161B22&color=161B22" />
+<img src="https://img.shields.io/github/stars/ViniciusGomes0?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=C9D1D9&label=STARS&labelColor=161B22&color=161B22" />
+<img src="https://img.shields.io/badge/BASED%20IN-BRASIL-161B22?style=for-the-badge&logo=googlemaps&logoColor=C9D1D9&labelColor=161B22" />
+
+<br/><br/>
+
+<!-- ── Cards principais. Troque o domínio pelo seu fork no Vercel ── -->
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ViniciusGomes0&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&ring_color=E6EDF3" />
 &nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&langs_count=8&hide_progress=true&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&text_color=8B949E" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGomes0&layout=compact&langs_count=8&hide_progress=true&cache_seconds=86400&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&text_color=8B949E" />
 
 <br/><br/>
 
+<!-- Streak roda em instância própria — é o card mais confiável dos três -->
 <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusGomes0&background=0D1117&border=21262D&stroke=21262D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ViniciusGomes0&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusGomes0&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B949E&title_color=E6EDF3&line=E6EDF3&point=FFFFFF&area=true&area_color=30363D&hide_border=true" />
 
-<br/>
-
-<!-- Snake: precisa do workflow em .github/workflows/snake.yml -->
-<img width="100%" src="https://raw.githubusercontent.com/ViniciusGomes0/ViniciusGomes0/output/snake-dark.svg" />
-
 </div>
+
+<!--
+  ─────────────────────────────────────────────────────────────────────
+  SEÇÕES DESATIVADAS — reative quando estiverem prontas
+  ─────────────────────────────────────────────────────────────────────
+
+  [1] PROJETOS FIXADOS
+      Troque repo-nome-1 / repo-nome-2 pelos repositórios REAIS,
+      depois mova este bloco pra fora do comentário.
+
+<div align="center">
+<a href="https://github.com/ViniciusGomes0/repo-nome-1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusGomes0&repo=repo-nome-1&cache_seconds=86400&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" />
+</a>
+<a href="https://github.com/ViniciusGomes0/repo-nome-2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusGomes0&repo=repo-nome-2&cache_seconds=86400&bg_color=0D1117&border_color=21262D&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" />
+</a>
+</div>
+
+  [2] SNAKE DE CONTRIBUIÇÕES
+      Só funciona DEPOIS de criar .github/workflows/snake.yml e rodar
+      o workflow em Actions → Generate Snake → Run workflow.
+      Confirme que a branch "output" foi criada, aí reative.
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ViniciusGomes0/ViniciusGomes0/output/snake-dark.svg" />
+</div>
+
+  ─────────────────────────────────────────────────────────────────────
+-->
 
 <br/>
 
