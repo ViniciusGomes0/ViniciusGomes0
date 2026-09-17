@@ -70,11 +70,7 @@ status:   em evolução constante
 
 Construo o lado que ninguém vê — e que não pode falhar.
 
-Meu trabalho é desenhar **APIs previsíveis**, modelar domínios que
-resistem a mudança e escrever camadas com responsabilidade tão clara
-que o próximo dev não precisa perguntar nada.
-
-Código limpo não é estética. É manutenção barata.
+Desenvolvedor Back-End Java.
 
 <br clear="right"/>
 
